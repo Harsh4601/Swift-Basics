@@ -1,5 +1,5 @@
 # IntroductionToSwift
-I have Covered some basic topics for Swift Programming language with the syntax of the code 
+I have covered some basic topics for Swift Programming language with the syntax of the code 
 currently the topics which I have covered include : - <br/>
 1. comments<br/>
 2. var<br/>
