@@ -10,5 +10,8 @@ currently the topics which I have covered include : - <br/>
 7. arrays<br/>
 8. if else<br/>
 9. for/while loop<br/>
+10.Boolean Conditionals<br/>
+11.Dictionary<br/>
+12.Functions<br/>
 <br/>
-Few topics are left which I will be covering later. I will update those topics in the same repo, stay tuned
+All basic topics for swift programming are updated.
