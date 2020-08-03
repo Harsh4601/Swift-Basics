@@ -14,4 +14,4 @@ currently the topics which I have covered include : - <br/>
 11. Dictionary
 12. Functions
 <br/>
-All basic topics for swift programming are updated.
+All basic topics for swift programming are updated.<br/> Happy Coding!
