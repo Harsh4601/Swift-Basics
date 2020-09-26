@@ -15,3 +15,4 @@ currently the topics which I have covered include : - <br/>
 12. Functions
 <br/>
 All basic topics for swift programming are updated.<br/> Happy Coding!
+<br/>Have a nice day!!
